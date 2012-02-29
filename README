@@ -1,0 +1,2 @@
+This repo contains some supporting files for installing a puppet master with
+nginx and passenger on CentOS/RHEL 5.x
