@@ -1,0 +1,13 @@
+[puppetlabs]
+name=Puppet Labs Packages
+baseurl=http://yum.puppetlabs.com/el/5/products/$basearch
+enabled=1
+gpgcheck=0
+gpgkey=http://yum.puppetlabs.com/RPM-GPG-KEY-puppetlabs
+
+[puppetlabs-deps]
+name=Puppet Labs Packages - Dependencies
+baseurl=http://yum.puppetlabs.com/el/5/dependencies/$basearch
+enabled=1
+gpgcheck=0
+gpgkey=http://yum.puppetlabs.com/RPM-GPG-KEY-puppetlabs

@@ -1,0 +1,4 @@
+# Configuration file for the nginx service.
+NGINX=/opt/nginx/sbin/nginx
+CONFFILE=/etc/nginx/nginx.conf
+LOCKFILE=/var/lock/subsys/nginx
