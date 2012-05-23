@@ -1,4 +1,8 @@
 This repo contains some supporting files for installing a puppet master with
 nginx and passenger on CentOS/RHEL 5.x
 
-I should really blog about how to set this all up some time.
+Read my blog on how to set this up here:
+
+http://z0mbix.github.com/blog/2012/03/01/use-nginx-and-passenger-to-power-your-puppet-master/
+
+Enjoy!
